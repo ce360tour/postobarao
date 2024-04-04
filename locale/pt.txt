@@ -1,0 +1,100 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_B5967CAD_A61A_2B39_41D5_5736831BA550.source = https://portal.ipiranga/wps/portal/ipiranga/kmv/!ut/p/z1/pZDNCsIwEIQfKesmjV7baNqkSmq1P-YiOUlAqwfx-a0igqKx4NwWvhl2hljSEtu5i9-5sz92bt_fG8u3I4wUiByMqVQEfMEQSj3FiWSkeQPmggIXS4mZ0AgpJXaIP88YyxIG2iQ1QoyGUrlaJ7yO_vOX42F--KIYhvkDgA3HN8TekWeDdGZ43wCxKHRBU8YfQGji14QPGwaB20i_3jwdql4teOXjKyb794o!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzEyNUkwQ0swTzhVTEEwNk1GTzc5QkMzMFIy
+LinkBehaviour_8DC9B12F_9C15_D234_41D2_0B0DEE7F04B6.source = https://portal.ipiranga/wps/portal/ipiranga/kmv/!ut/p/z1/pZDNCsIwEIQfKesmjV7baNqkSmq1P-YiOUlAqwfx-a0igqKx4NwWvhl2hljSEtu5i9-5sz92bt_fG8u3I4wUiByMqVQEfMEQSj3FiWSkeQPmggIXS4mZ0AgpJXaIP88YyxIG2iQ1QoyGUrlaJ7yO_vOX42F--KIYhvkDgA3HN8TekWeDdGZ43wCxKHRBU8YfQGji14QPGwaB20i_3jwdql4teOXjKyb794o!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzEyNUkwQ0swTzhVTEEwNk1GTzc5QkMzMFIy
+LinkBehaviour_B5992CA3_A61A_2B29_41D7_C38DD341F32C.source = https://www.cetour360.com.br/
+LinkBehaviour_81CC78BF_95B6_7FC3_41DE_EAD0E3530386.source = https://www.cetour360.com.br/
+LinkBehaviour_8429AF64_91DD_6A9A_41BA_65D2C7AEE421.source = https://www.cetour360.com.br/
+PopupWebFrameBehaviour_B5961CB1_A61A_2B29_41D5_E8B7A692F917.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63700.41498365521!2d-38.5668935!3d-3.7499729!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7485fd6ac8a5b%3A0xc7b1d4654e86b30a!2sPosto%20Ipiranga!5e0!3m2!1spt-BR!2sbr!4v1711839598736!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_F4F496BF_EE87_3A09_41ED_A7775A188ED5.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63700.41498365521!2d-38.5668935!3d-3.7499729!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7485fd6ac8a5b%3A0xc7b1d4654e86b30a!2sPosto%20Ipiranga!5e0!3m2!1spt-BR!2sbr!4v1711839598736!5m2!1spt-BR!2sbr
+LinkBehaviour_F54FE527_EE89_1E38_41E6_BD8A01DC0AD3.source = https://www.instagram.com/posto_barao/
+LinkBehaviour_B596DCB0_A61A_2B27_41DE_70D8121F50D1.source = https://www.instagram.com/posto_barao/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_A9A1055F_A61E_2519_41D2_7FCAD7FAA613.text = Av. Barão de Studart
+HotspotPanoramaOverlayTextImage_B753E60E_A62A_26FB_41D8_CDF290F3FA2C.text = Teste de Qualidade
+
+## Media
+
+### Audio
+audiores_96B9BD6E_A097_0D95_41DA_0C7B8328969C.mp3Url = media/audio_8C23224E_A17B_1795_41E3_C47D67689CC7_pt.mp3
+audiores_968B1BD9_A097_34BC_41A4_7B6B5D7A76CD.mp3Url = media/audio_8FCC22CC_A17F_1495_41BB_632B55458113_pt.mp3
+
+### Image
+imlevel_B7804757_A63A_E569_414C_87CC6ADCBBA5.url = media/panorama_879AD39D_8B3D_6C84_41D0_1968BE64DA8B_HS_p3fpzdk9_pt.png
+imlevel_B4CB4C25_A627_EB29_41D6_F0AF8FCC1147.url = media/panorama_91113D64_8DCF_D584_41DC_01072E2F2F0C_HS_4gi5hpeu_pt.png
+
+### Title
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7_1.label = CALIBRAÇÃO
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE_1.label = CALIBRAÇÃO
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE_0.label = CALIBRAÇÃO 01
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7_0.label = CALIBRAÇÃO 01
+photo_B77F0F91_A08D_0C8C_41DC_0A7B49DB51E8.label = Captura de tela 2024-04-02 194104
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE_2.label = FACHADA
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7_2.label = FACHADA
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE.label = FOTOS POSTO BARÃO
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7_3.label = LUBRIFICANTES
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE_3.label = LUBRIFICANTES
+album_85BE43B9_92C3_59EA_41E1_3F9D43DF3EAE_4.label = POSTO BARÃO
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7_4.label = POSTO BARÃO
+panorama_879AD39D_8B3D_6C84_41D0_1968BE64DA8B.label = POSTO BARÃO - PANORAMA
+panorama_91169B6B_8DCF_BD8D_41B4_B620DF0A63E7.label = POSTO BARÃO - PANORAMA
+panorama_91168482_8DCE_EB7F_41CE_FDB1165A24F2.label = POSTO BARÃO - PANORAMA
+panorama_91113D64_8DCF_D584_41DC_01072E2F2F0C.label = POSTO BARÃO - PANORAMA
+panorama_9116656F_8DCE_B585_41D3_296C5AF5BD4A.label = POSTO BARÃO - PANORAMA
+panorama_91167A2B_8DCF_5F8D_41A5_071DFCAB6138.label = POSTO BARÃO - PANORAMA
+panorama_911696AF_8DCF_5484_41D4_5D38AC9A605B.label = POSTO BARÃO - PANORAMA
+panorama_91110821_8DCF_7BBC_41C7_58A3A7C87674.label = POSTO BARÃO - PANORAMA
+panorama_93A561F1_8DCE_EC9C_41E0_09EC7AC9F7C4.label = POSTO BARÃO - PANORAMA
+photo_830988B6_A195_14F5_41BA_5ED3C7B33367.label = download
+photo_B9F25752_A18F_1D8D_41D7_6924517F3FBC.label = unnamed
+album_8A3BB447_92C5_5EA6_41E1_827130ADA0C7.label = Álbum de Fotos CALIBRAÇÃO 01
+
+## Popup
+
+### Body
+htmlText_80234C55_A194_F3B7_41CC_125536313E63.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A qualidade do combustível desempenha um papel fundamental no bom funcionamento e na preservação do veículo, uma vez que utilizar um combustível de baixa qualidade pode acarretar sérios danos ao motor e ao sistema de injeção. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Aqui no<B> Posto Barão</B>, a gente tem <B>combustíveis de qualidade</B> pro seu carro, moto ou caminhão. É tudo<B> testado e aprovado</B> pra você seguir em segurança.</SPAN></DIV></BODY></HTML></div>
+htmlText_BB393602_A18F_3F8D_41D5_9C9EA2938E46.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Conheça a linha de <B>lubrificantes Ipiranga</B> mais completa para você cuidar do seu carro e garantir uma vida longa e saudável ao seu motor.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Contamos com <B>técnico especialista em lubrificação</B> para você!</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Atendemos de segunda a sábado, das 6h às 22h.</B></SPAN></DIV></BODY></HTML></div>
+htmlText_B643E345_A095_1597_41DD_B46F8CAE703D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">O programa de fidelidade dos postos Ipiranga nasceu há 15 anos</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">para te acompanhar em todos os momentos.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hoje, já fazemos parte da vida de mais de 37 milhões de clientes em todo o Brasil.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Crescemos e evoluímos com o objetivo de facilitar a jornada de mobilidade de nossos usuários. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">E não paramos por aí. Em 2024, abastece-aí e Km de Vantagens se tornaram KMV, um programa completo e pronto para te conectar com as melhores escolhas.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Tá esperando o quê?</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Baixe o app, cadastre-se e ganhe pontos na hora. Depois, é abastecer sempre nos postos Ipiranga e pagar pelo próprio app. Viu? É muito fácil acumular pontos e trocar por mais vantagens.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_B643B344_A095_1595_41B8_A3F4EECE6D5C.title = KM de Vantagens
+window_BB3F0601_A18F_3F8F_41CE_9864F3CAA992.title = LUBRIFICANTES - POSTO BARÃO
+window_803D7C55_A194_F3B7_41E1_170B93AE5B35.title = QUALIDADE DOS COMBUSTÍVEIS
+
+## Skin
+
+### Button
+Button_F96F94EC_EF87_3E08_41CA_73F57E0E0ABD_mobile.label = ENTRADA 
+Button_F96F94EC_EF87_3E08_41CA_73F57E0E0ABD.label = ENTRADA 
+Button_F90F58AC_EF89_1608_41E0_0BF900961124_mobile.label = ILHAS DE ABST. 
+Button_F90F58AC_EF89_1608_41E0_0BF900961124.label = ILHAS DE ABST. 
+Button_F84B4D88_EF89_EEF7_41EB_396487D0234B.label = KM DE VANTAGENS 
+Button_F84B4D88_EF89_EEF7_41EB_396487D0234B_mobile.label = KM DE VANTAGENS 
+Button_F92171AC_EF89_F60F_41C9_255230E6EB5E.label = LUBRIFICANTES 
+Button_F92171AC_EF89_F60F_41C9_255230E6EB5E_mobile.label = LUBRIFICANTES 
+Button_F0A077BF_EE8B_1A09_41D1_479BE8F4267A.label = OCULTAR MENU <
+Button_F0A077BF_EE8B_1A09_41D1_479BE8F4267A_mobile.label = OCULTAR MENU <
+Button_F93DDC34_EF89_EE18_41DC_7428DBCF3409.label = TESTE QUALIDADE 
+Button_F93DDC34_EF89_EE18_41DC_7428DBCF3409_mobile.label = TESTE QUALIDADE 
+
+### Image
+Image_1492B4EE_3829_0CB6_41A5_1E6D7AB98B34_mobile.url = skin/Image_1492B4EE_3829_0CB6_41A5_1E6D7AB98B34_mobile_pt.png
+Image_1492B4EE_3829_0CB6_41A5_1E6D7AB98B34.url = skin/Image_1492B4EE_3829_0CB6_41A5_1E6D7AB98B34_pt.png
+Image_14D804E7_3827_0CB6_4180_AB0A2C7D40A7_mobile.url = skin/Image_14D804E7_3827_0CB6_4180_AB0A2C7D40A7_mobile_pt.png
+Image_14D804E7_3827_0CB6_4180_AB0A2C7D40A7.url = skin/Image_14D804E7_3827_0CB6_4180_AB0A2C7D40A7_pt.png
+Image_226DA409_36CB_1FBC_4192_D524B21411F9_mobile.url = skin/Image_226DA409_36CB_1FBC_4192_D524B21411F9_mobile_pt.png
+Image_226DA409_36CB_1FBC_4192_D524B21411F9.url = skin/Image_226DA409_36CB_1FBC_4192_D524B21411F9_pt.png
+
+## Tour
+
+### Description
+tour.description = Produtos de qualidade e o melhor atendimento!
+
+### Title
+tour.name = POSTO BARÃO
